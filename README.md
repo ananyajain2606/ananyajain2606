@@ -5,7 +5,7 @@
 ---
 
 ### About me
-- BA with 5 years across fintech (Paytm) and analytics consulting (EXL Services)
+- BA with 5+ years across fintech (Paytm) and analytics consulting (EXL Services)
 - Specialise in KPI frameworks, funnel analytics, cohort analysis & A/B experimentation
 - Built SQL-based BI models, dashboards for 40K+ field execs, and a prompt-to-SQL AI bot
 - Translate complex data into executive-ready insights and product decisions
