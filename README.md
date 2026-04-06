@@ -1,6 +1,6 @@
 # Hi, I'm Ananya Jain 👋
 
-**Business Analyst · 5 years in Fintech & Analytics · IIM Calcutta · NIT Bhopal · Aspiring PM**
+**Business Analyst · 5+ years in Fintech & Analytics · IIM Calcutta · NIT Bhopal · Aspiring PM**
 
 ---
 
