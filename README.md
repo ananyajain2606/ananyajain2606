@@ -44,4 +44,4 @@ Product Management · Growth Strategy · User Research · PRD Writing
 
 ---
 
-📎 [LinkedIn](your-linkedin-url) &nbsp;|&nbsp; 📧 ananyajain2606@gmail.com
+📎 [LinkedIn](https://www.linkedin.com/in/ananya-jain-293794182/) &nbsp;|&nbsp; 📧 ananyajain2606@gmail.com
